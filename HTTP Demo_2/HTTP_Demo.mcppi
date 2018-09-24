@@ -1,0 +1,76 @@
+[DEVICE]
+Name=P18F46K20
+Clock=32000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=HTTP_Demo.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[FILES]
+File0=HTTP_Demo.c
+Count=1
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+File0=HTTP_Demo.c
+File1=html.h
+Count=2
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+File0=Serial_Ethernet_Board.xml
+Count=1
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\Network_Ethernet_PIC\Uses\
+Count=1
+[HEADER_PATH]
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\Network_Ethernet_PIC\Uses\
+Count=1
+[HEADERS]
+File0=__Lib_NetEthEnc28j60.h
+File1=__Lib_NetEthEnc28j60Private.h
+File2=html.h
+Count=3
+[PLDS]
+Count=0
+[Useses]
+File0=C_String
+File1=Conversions
+File2=C_Type
+File3=C_Stdlib
+File4=ADC
+File5=SPI
+File6=Net_Ethernet_28j60
+File7=Net_Ethernet_28j60_Defs
+File8=C_Math
+File9=UART
+Count=10
+[EXPANDED_NODES]
+0=HTTP_Demo.mcppi
+1=Sources
+3=Header Files
+Count=3
+[LIB_EXPANDED_NODES]
+0=mikroE Libraries
+1=System Libraries
+380=SPI
+388=SPI_Ethernet
+825=UART
+844=Additional Libraries
+1920=Network_Ethernet_PIC
+1996=Net_Ethernet_28j60
+Count=9
